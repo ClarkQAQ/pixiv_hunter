@@ -1,4 +1,4 @@
-![pixiv_hunter](https://github.com/ClarkQAQ/pixiv_hunter/blob/master/images/pixiv_hunter.png)
+![pixiv_hunter](https://github.com/ClarkQAQ/pixiv_hunter/blob/master/images/pixiv_hunter.jpeg?raw=true)
 
 
 ### 他是什么, 做什么的?
